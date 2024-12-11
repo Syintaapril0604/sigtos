@@ -14,4 +14,4 @@ localhost/sigtos/admin/login.php
 
 Untuk Mengakses Secara Online Tanpa Import Database dan File:
 
-http://sigtos.rf.gd -> User
+https://sigtos.rf.gd -> User
